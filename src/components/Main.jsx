@@ -5,10 +5,10 @@ export default function Main() {
         <div className="main">
             <h2>P Sathya Narayan</h2>
             <p className="sde">Software Developer</p>
-            <h4><a href="www.sathya.live">sathya.live</a></h4>
+            <h4><a href="https://sathya.live/" target="_blank">sathya.live</a></h4>
             <div className="button">
-                <span className="email"><button><i className="fa-solid fa-envelope"></i>Email</button></span>
-                <span className="linkedin"><button><i className="fa-brands fa-linkedin"></i>LinkedIn</button></span>
+                <span className="email"> <a href="mailto:sathyanmbpk@gmail.com"><button><i className="fa-solid fa-envelope"></i>Email</button></a></span>
+                <span className="linkedin"><a href="https://www.linkedin.com/in/sathyanarayanp" target="_blank"><button><i className="fa-brands fa-linkedin"></i>LinkedIn</button></a></span>
             </div>
             <div className="about">
                 <h3>About</h3>
