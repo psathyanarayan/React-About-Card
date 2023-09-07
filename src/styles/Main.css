@@ -1,0 +1,109 @@
+.main{
+    margin-bottom: 0;
+    padding-bottom: 0;
+  background-color: #1A1B21;
+    
+}
+.main h2{
+    font-size: 25px;
+    color: white;
+    margin-top: 0;
+    padding-top: 21px;
+    margin-bottom: 0;
+}
+.sde{
+    font-size: 12.8px;
+    color: #F3BF99;
+    margin-top: 6px;
+    margin-bottom: 9px;
+}
+
+.main h4{
+    margin-top: 0;
+    font-size: 10.24px;
+}
+.main h4 a {
+    text-decoration: none;
+    color: #F5F5F5;
+    font-weight: 300;
+}
+
+.email button{
+    width: 115px;
+    height: 34px;
+    background-color: white;
+    border-radius: 6px;
+    border: 0;
+}
+
+.button{
+    margin-bottom: 33px;
+}
+
+.button .email {
+    padding-right: 17px;
+}
+
+.button .email i{
+    padding-right: 8px;
+}
+
+.linkedin button{
+    width: 115px;
+    height: 34px;
+    background-color: #5093E2;
+    color: white;
+    border-radius: 6px;
+    border: 0;
+}
+
+.linkedin i{
+    padding-right: 8px;
+}
+.about{
+    width: 247px;
+    height: fit-content;
+    margin: auto;
+    text-align: left;
+    color: white;
+    margin-bottom: 27px;
+    font-weight: normal;
+
+
+    
+}
+.about h3{
+    margin-top: 0;
+    font-size: 16px;
+    
+  }
+.about p{
+    font-size: 10.24px;
+    font-style: normal;
+    font-weight: normal;
+    color: #DCDCDC;
+    line-height: 1.6;
+}
+
+.interest{
+    width: 247px;
+    height: fit-content;
+    margin: auto;
+    text-align: left;
+    color: white;
+    padding-bottom: 20px;
+    
+}
+.interest h3{
+    margin-top: 0;
+    font-size: 16px;
+    
+  }
+.interest p{
+    font-size: 10.24px;
+    font-style: normal;
+    font-weight: normal;
+    color: #DCDCDC;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
